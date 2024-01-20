@@ -78,4 +78,4 @@
 <br> 
 <h2 id="실행결과">📌 실행결과</h2>
 
-<img src=' https://github.com/J-yun-ji/runner-catching-game/assets/66745172/33562f4e-0589-4bfe-bc00-634cd9ef197e' width="500px">
+<img src='https://github.com/J-yun-ji/runner-catching-game/assets/66745172/33562f4e-0589-4bfe-bc00-634cd9ef197e' width="500px">
